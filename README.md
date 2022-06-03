@@ -1,11 +1,18 @@
-# Titulo 1
+<h1 align="center"> Task_Management </h1>
 
-texto
+<!---
+Lembrar de colocar a imagem se der tempo
+[descrição da imagem](url da imagem gerado pelo serviço de hospedagem ou GitHub)
+--->
 
-## titulo 2
+É um trabalho feito de clonagem de uma página web pelos alunos Annielle (Design, CSS) e Jean Carlos (Dev) para o projeto final da matéria de Projeto Avançado I da UFPB
 
-texto
 
-### titulo 3
+![Badge em Desenvolvimento](http://img.shields.io/static/v1?label=STATUS&message=EM%20DESENVOLVIMENTO&color=GREEN&style=for-the-badge)
 
-texto
+<!---
+Para melhorar o read me ... 
+https://www.alura.com.br/artigos/escrever-bom-readme?gclid=CjwKCAjwv-GUBhAzEiwASUMm4nr6qinCPF9TcUVc-fBeIEPhuambYiY8bB83rFyDNLHJ5fUSNvZGbxoCyg0QAvD_BwE
+https://blog.rocketseat.com.br/como-fazer-um-bom-readme/
+
+--->
