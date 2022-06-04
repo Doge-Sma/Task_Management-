@@ -1,9 +1,11 @@
-import Container from "./Container"
 
-export default function Footer(){
+import styles from './Footer.module.css'
+
+export default function Footer() {
     return (
-    <Container customClass="footer">
-        <p>Footer</p>
-    </Container>
+        <footer className={styles.footer}>
+                <p>Footer</p>
+            
+        </footer>
     )
 }
