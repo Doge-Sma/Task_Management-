@@ -16,3 +16,5 @@ https://www.alura.com.br/artigos/escrever-bom-readme?gclid=CjwKCAjwv-GUBhAzEiwAS
 https://blog.rocketseat.com.br/como-fazer-um-bom-readme/
 
 --->
+
+gerente de configuração: npm install react-router-dom@lastest
