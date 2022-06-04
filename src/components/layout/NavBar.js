@@ -7,6 +7,7 @@ export default function NavBar() {
         <nav className={styles.navbar}>
             <Container>
                 <ul className={styles.list}>
+                    <li className={styles.item}><Link to="/login">Login</Link></li>
                     <li className={styles.item}><Link to="/">Home</Link></li>
                     <li className={styles.item}><Link to="/calendario">Calendário</Link></li>
                     <li className={styles.item}><Link to="/novatarefa">Nova Tarefa</Link></li>
