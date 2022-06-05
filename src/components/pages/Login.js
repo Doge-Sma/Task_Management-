@@ -5,7 +5,6 @@ function Login() {
     return (
 
         <div className={styles.login}>
-            <h1> Bem- ao <span>Costs</span></h1>
             <img src={logo} alt="Logo da Tela de Login" className={styles.imagemLogo} />
            
             <div class="text">
@@ -13,8 +12,9 @@ function Login() {
                 <p1> When You Are Confused Abount </p1>
                 <p1> Managing Your Task Come To Us </p1>
             </div>
-            <button> Login </button>
-            <button> Sign Up</button>
+            <button className={styles.buttonLogin}> Login </button>
+            <button className={styles.buttonSign}> Sign Up</button>
+
         </div>
 
 
