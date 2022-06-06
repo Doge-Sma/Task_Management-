@@ -1,0 +1,13 @@
+.novaTarefa_container {
+    width: 450px;
+    margin: 0 auto;
+    padding: 3em;
+}
+
+.novaTarefa_container h1 {
+    margin-bottom: 0.5em;
+}
+
+.novaTarefa_container p{
+    color: var(--black-700);
+}
