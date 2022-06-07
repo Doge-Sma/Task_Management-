@@ -18,3 +18,9 @@ https://blog.rocketseat.com.br/como-fazer-um-bom-readme/
 --->
 
 gerente de configuração: npm install react-router-dom@lastest
+
+instalar framework do calendario
+
+npm install @mui/material @emotion/react @emotion/styled --legacy-peer-deps
+npm install @mui/icons-material --legacy-peer-deps
+npm install @mui/lab

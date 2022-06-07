@@ -1,5 +1,6 @@
 import Input from "../form/Input"
-import Select from "../form/Select"
+import SelectHora from "../form/SelectHora"
+import SelectData from "../form/SelectData"
 import SubmitButton from "../form/SubmitButton"
 import styles from "./TarefaForm.module.css"
 
@@ -12,20 +13,12 @@ export default function TarefaForm({btnText}) {
            name="name"
            placeholder="Insira o nome da tarefa"
            />
-           <Select
-           name="category_id"
-           text="selecione a data"
-           />
-            <div>
-           <Select
-           name="category_id"
-           text="Selecione a hora inicial"
-           />
-           <Select
-           name="category_id"
-           text="Selecione a hora final"
-           />
-           </div>
+           <SelectData text="Selecione a data"/>
+            
+           <SelectHora text="Selecione a hora inicial"/>
+           <SelectHora
+           text="Selecione a hora final"/>
+           
            <Input
            type="text"
            text="Descrição da Tarefa"
