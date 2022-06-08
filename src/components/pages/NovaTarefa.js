@@ -1,4 +1,4 @@
-import TarefaForm from '../tarefas/TarefaForm'
+import TarefaForm from '../formularios/TarefaForm'
 import styles from './NovaTarefa.module.css'
 
 export default function NovaTarefa(){
